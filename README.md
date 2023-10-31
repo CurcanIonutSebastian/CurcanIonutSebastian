@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=curcanionutsebastian&label=Profile%20views&color=0e75b6&style=flat" alt="curcanionutsebastian" /> </p>
 
-- 🔭 I’m currently studying java at ItSchool **<a href=[www. ](https://github.com/CurcanIonutSebastian/itschool)    link repo>ItSchool</a>**
+- 🔭 I’m currently studying java at ItSchool <a href=https://github.com/CurcanIonutSebastian/itschool    link repo>ItSchool</a>
 
 - 🌱 I’m currently learning **Java, databases, spring**
 
